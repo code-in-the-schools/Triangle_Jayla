@@ -1,5 +1,5 @@
-for i in range ('a') :
+for i in (range) ('e') :
 
- for j in range(i + 1):
-  print (j +1, end= "")
-  print ("")
+ for j in (range)(i + 1):
+   print = (j +1, 'end' )
+   print = ('')
